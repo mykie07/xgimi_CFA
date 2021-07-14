@@ -9,3 +9,11 @@ XGIMI projector customer feedback analysis (amazon reviews)
 * Set up dynamic random normal matrix for dimensionality reduction.
 * Build index
 * Apply index
+
+
+Adopted from: https://www.tensorflow.org/hub/tutorials/tf2_semantic_approximate_nearest_neighbors
+
+
+# To Do:
+## Task 2: build a fulltext index and compare results, merge if necessary.
+## Task 3: include implentation of Neo4j-based sentiment search from previous project to improve expressiveness of search
